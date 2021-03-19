@@ -1,0 +1,15 @@
+{
+  "name": "icon-fly-animate",
+  "version": "1.0.1",
+  "description": "An animation method to make a icon fly",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chenliangliang",
+  "license": "ISC",
+  "dependencies": {
+    "@tweenjs/tween.js": "^18.6.4",
+    "prop-types": "^15.7.2"
+  }
+}
